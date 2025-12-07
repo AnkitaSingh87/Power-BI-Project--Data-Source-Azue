@@ -20,13 +20,24 @@ The dashboard will include the following KPIs:
    - Average Sale Price per brands.  
    - Average Discount per brands 
 
+
 2. **Top 5 Brands by Discount**  
    Ranking brands offering the highest average discount.
 
+
 3. **Top 5 Brands by Sale Price**  
    Ranking brands with premium pricing.
+
+
+   <img width="899" height="444" alt="Screenshot 2025-12-07 190949" src="https://github.com/user-attachments/assets/11d2d9ac-83a9-4ccd-b62f-f5a244882624" />
+
+
    
 4. **Total brands Name** 
+
+
+    <img width="892" height="437" alt="Screenshot 2025-12-07 191305" src="https://github.com/user-attachments/assets/faf6327f-4bd2-4016-9852-3a87dfb8fa68" />
+
 
 ---
 
