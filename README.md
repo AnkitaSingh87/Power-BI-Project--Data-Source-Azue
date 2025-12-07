@@ -29,14 +29,15 @@ The dashboard will include the following KPIs:
    Ranking brands with premium pricing.
 
 
-   <img width="899" height="444" alt="Screenshot 2025-12-07 190949" src="https://github.com/user-attachments/assets/11d2d9ac-83a9-4ccd-b62f-f5a244882624" />
+   <img width="892" height="437" alt="Screenshot 2025-12-07 191305" src="https://github.com/user-attachments/assets/faf6327f-4bd2-4016-9852-3a87dfb8fa68" />
 
 
    
 4. **Total brands Name** 
 
 
-    <img width="892" height="437" alt="Screenshot 2025-12-07 191305" src="https://github.com/user-attachments/assets/faf6327f-4bd2-4016-9852-3a87dfb8fa68" />
+    <img width="899" height="444" alt="Screenshot 2025-12-07 190949" src="https://github.com/user-attachments/assets/11d2d9ac-83a9-4ccd-b62f-f5a244882624" />
+  
 
 
 ---
